@@ -1,0 +1,15 @@
+{
+  "name": "cypress-test",
+  "version": "1.0.0",
+  "description": "kolomolo qa",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run"
+  },
+  "author": "Camilo Saa",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.5.3"
+  }
+}
