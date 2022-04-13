@@ -1,3 +1,3 @@
-describe('home page test suite', () => {
+describe('sign in test suite', () => {
   // WRITE YOUR CYPRESS TESTS CASES HERE
 });
