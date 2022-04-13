@@ -6,7 +6,7 @@ The test is divided in 3 sections
 - API Testing
 - Automation Scripting
 
-Creativity and extra scenarios will be greatly improve the evaluation
+Creativity and extra scenarios will greatly improve the evaluation
 
 # Project setup
 
